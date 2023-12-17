@@ -14,7 +14,8 @@ main {
 p {
   font-size: 2em;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  text-align: center;  
+  text-align: center
+  font-style: lavender;  
 }
 
 .options {
