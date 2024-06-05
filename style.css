@@ -8,14 +8,14 @@ main {
   display: grid;
   place-items: center;
   height: 100vh;
-  background-color: blueviolet;
+  background-color: darkred;
 }
 
 p {
   font-size: 2em;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
-  color: white;
+  color: ghostwhite;
 }
 
 .options {
