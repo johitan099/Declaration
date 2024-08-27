@@ -1,6 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn')
 yesBtn.addEventListener('click', ()=>{
-  alert('Hueles a feo, deberías bañarte')
+  alert('Sabía que dirías que sí, entonces que esperas para hacerlo?')
 })
 
 const noBtn = document.querySelector('#noBtn')
